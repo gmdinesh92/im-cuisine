@@ -1,0 +1,27 @@
+{
+	"carouselContent": [{
+		"title": "title",
+		"description": "description",
+		"image_source": "src/images/naan.jpg"
+	}, {
+		"title": "title2",
+		"description": "description2",
+		"image_source": "src/images/naan.jpg"
+	}],
+	"videos": [{
+		"video": "https://www.youtube.com/embed/axjI0jgh5DY",
+		"title": "How to make Egg Kurma?/ Muttai kurma?/Egg coconut curry?/South Indian recipe",
+		"subtitle": "Published on 25 Jan 2017",
+		"content": "A quick recipe with all simple ingredients available at home by Usha Ravichandran Eggs are good source of protein enriched with vitamins and minerals. In this video, we will see how to prepare Egg kurma / Mottai curry in Indian style. It can be served hot with idlis, dosas, chapathis and parotas."
+	}, {
+		"video": "https://www.youtube.com/embed/M9aOlIA7gKY",
+		"title": "How to make Prawn fry? With tomato/South Indian /இறால் தொக்கு/Shrimp fry/Homemade recipe",
+		"subtitle": "Published on 22 Jan 2017",
+		"content": "Prawns are easy to cook and are rich in Vitamins A and E. It also contains calcium which helps to strengthen the bones. In this video, Let us watch how to make spicy prawn tomato fry in south Indian style, a simple recipe by Usha Ravichandran.This dish can be cooked with in 20 mins and can be served with hot rice, naan breads, chapathis and parotas."
+	}, {
+		"video": "https://www.youtube.com/embed/pOVvtrCeh5o",
+		"title": "How to make Chicken Curry?/south Indian style/கோழிக்குழம்பு/Homemade recipe",
+		"subtitle": "Published on 21 Jan 2017",
+		"content": "Chicken has lots of health benefits. It is highly rich in proteins, vitamins and minerals.Chicken curry is everyone's favorite dish. So, in this video let us watch how to cook chicken curry in Indian style.It's an easy recipe by Usa Ravichandran with fairly common ingredients available at home!"
+	}]
+}
